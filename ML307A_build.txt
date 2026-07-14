@@ -1,0 +1,14 @@
+ML307A_build.bat clean  #清除历史编译信息
+
+ML307A_build.bat DCLN   #编译 custom_main 工程
+ML307A_build.bat DSLN   #编译 custom_main 工程
+ML307A_build.bat GCLN   #编译 custom_main 工程
+ML307A_build.bat GSLN   #编译 custom_main 工程
+
+ML307A_build.bat DCLN demo  #编译 examples/demo_main 工程
+ML307A_build.bat DSLN demo  #编译 examples/demo_main 工程
+ML307A_build.bat GCLN demo  #编译 examples/demo_main 工程
+ML307A_build.bat GSLN demo  #编译 examples/demo_main 工程
+
+
+J:\BaiduSyncdisk\learnML307A\3-SDK\sdk\ML305A_ML307A_OpenCPU_Standard_1.4.6.2023110702_release\out\images\ML307A
